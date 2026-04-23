@@ -1,0 +1,22 @@
+{
+  "title": "TLS Config",
+  "description": "CKA Practice Question",
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  },
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "step1.md",
+        "foreground": "foreground.sh"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  }
+}

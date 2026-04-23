@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "path": "question-1-mariadb-persistent-volume"
+    },
+    {
+      "path": "question-2-argocd"
+    },
+    {
+      "path": "question-3-sidecar"
+    },
+    {
+      "path": "question-4-resource-allocation"
+    },
+    {
+      "path": "question-5-hpa"
+    },
+    {
+      "path": "question-6-crds"
+    },
+    {
+      "path": "question-7-priorityclass"
+    },
+    {
+      "path": "question-8-cni-and-network-policy"
+    },
+    {
+      "path": "question-9-cri-dockerd"
+    },
+    {
+      "path": "question-10-taints-tolerations"
+    },
+    {
+      "path": "question-11-gateway-api"
+    },
+    {
+      "path": "question-12-ingress"
+    },
+    {
+      "path": "question-13-network-policy"
+    },
+    {
+      "path": "question-14-storage-class"
+    },
+    {
+      "path": "question-15-etcd-fix"
+    },
+    {
+      "path": "question-16-nodeport"
+    },
+    {
+      "path": "question-17-tls-config"
+    }
+  ]
+}
